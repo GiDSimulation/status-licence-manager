@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 908,
-    "timeDay": 782,
-    "timeWeek": 778,
+    "time": 907,
+    "timeDay": 568,
+    "timeWeek": 719,
     "timeMonth": 742,
     "timeYear": 793,
     "dailyMinutesDown": {
@@ -21,8 +21,7 @@
       "2025-05-13": 37,
       "2025-05-11": 16,
       "2025-05-07": 21,
-      "2025-04-11": 18,
-      "2025-03-27": 18
+      "2025-04-11": 18
     }
   },
   {
@@ -36,19 +35,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1841,
-    "timeDay": 2622,
+    "time": 1840,
+    "timeDay": 700,
     "timeWeek": 1276,
-    "timeMonth": 1268,
-    "timeYear": 1842,
+    "timeMonth": 1269,
+    "timeYear": 1836,
     "dailyMinutesDown": {
       "2026-02-25": 58,
       "2025-07-25": 20,
       "2025-05-14": 43,
       "2025-05-13": 37,
       "2025-05-11": 16,
-      "2025-05-07": 21,
-      "2025-03-27": 18
+      "2025-05-07": 21
     }
   },
   {
@@ -63,9 +61,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 200,
-    "timeDay": 234,
-    "timeWeek": 213,
-    "timeMonth": 206,
+    "timeDay": 197,
+    "timeWeek": 206,
+    "timeMonth": 208,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2026-02-25": 58,
@@ -73,8 +71,7 @@
       "2025-05-14": 43,
       "2025-05-13": 37,
       "2025-05-11": 16,
-      "2025-05-07": 21,
-      "2025-03-27": 18
+      "2025-05-07": 21
     }
   },
   {
@@ -83,15 +80,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/licence.gidsimulation.com.ico",
     "slug": "licence-manager-list-licences-api",
     "status": "down",
-    "uptime": "27.88%",
+    "uptime": "27.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 117,
-    "timeWeek": 106,
-    "timeMonth": 103,
+    "timeDay": 119,
+    "timeWeek": 105,
+    "timeMonth": 104,
     "timeYear": 100,
     "dailyMinutesDown": {}
   }
